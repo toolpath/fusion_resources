@@ -11,12 +11,12 @@ These are the sample parts he uses in those videos.
 ### Bottle Opener
 
 [Bottle Opener Part](https://raw.githubusercontent.com/toolpath/fusion_resources/main/sample_parts/Bottle%20Opener%20Chamfer%20Time.f3d
-) 
+)<img src="sample_parts/images/bottle_opener_part.png" alt="Bottle Opener Part" width="300">
 
 [Bottle Opener CAM](https://raw.githubusercontent.com/toolpath/fusion_resources/tree/main/sample_parts/Bottle%20Opener%20CAM%20Assm.f3d
-)
+)<img src="sample_parts/images/bottle_opener_cam.png" alt="Bottle Opener CAM" width="300">
 
-<img src="sample_parts/images/bottle_opener_part.png" alt="Bottle Opener Part" width="300"><img src="sample_parts/images/bottle_opener_cam.png" alt="Bottle Opener CAM" width="300">
+
 
 
 
