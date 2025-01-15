@@ -16,13 +16,9 @@ These are the sample parts he uses in those videos.
 [Bottle Opener CAM](https://raw.githubusercontent.com/toolpath/fusion_resources/tree/main/sample_parts/Bottle%20Opener%20CAM%20Assm.f3d
 )
 
-![bottle opener part](sample_parts/images/bottle_opener_part.png)
+<img src="sample_parts/images/bottle_opener_part.png" alt="Bottle Opener Part" width="300">
 
-![bottle opener CAM](sample_parts/images/bottle_opener_cam.png)
-
-
-https://github.com/user/repo/blob/main/path/to/file.txt
-
+<img src="sample_parts/images/bottle_opener_cam.png" alt="Bottle Opener CAM" width="300">
 
 
 
