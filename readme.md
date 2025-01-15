@@ -8,9 +8,14 @@ This is a collection of general resources to help you use Autodesk Fusion for CA
 
 These are the sample parts he uses in those videos. 
 
-### [Bottle Opener Part](https://raw.githubusercontent.com/toolpath/fusion_resources/main/sample_parts/Bottle%20Opener%20Chamfer%20Time.f3d
-) & [Bottle Opener CAM](https://raw.githubusercontent.com/toolpath/fusion_resources/tree/main/sample_parts/Bottle%20Opener%20CAM%20Assm.f3d
+### Bottle Opener
+
+[Bottle Opener Part](https://raw.githubusercontent.com/toolpath/fusion_resources/main/sample_parts/Bottle%20Opener%20Chamfer%20Time.f3d
+) 
+
+[Bottle Opener CAM](https://raw.githubusercontent.com/toolpath/fusion_resources/tree/main/sample_parts/Bottle%20Opener%20CAM%20Assm.f3d
 )
+
 ![bottle opener part](sample_parts/images/bottle_opener_part.png)
 
 ![bottle opener CAM](sample_parts/images/bottle_opener_cam.png)
